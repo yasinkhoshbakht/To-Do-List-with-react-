@@ -1,0 +1,20 @@
+.todoList {
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: left;
+}
+
+.todoList input {
+  padding: 8px;
+  width: 75%;
+  margin-right: 10px;
+}
+
+.todoList button {
+  padding: 8px 15px;
+}
+
+.todoList ul {
+  list-style: none;
+  padding: 0;
+}
